@@ -1,0 +1,36 @@
+name: template_environment
+channel_priority: strict
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.*
+  - pip=21.3.*
+  # Python Programming
+  #- flake8=4.0.*
+  #- isort=5.10.*
+  #- pytest=6.2.*
+  #- pytest-watch=4.1.*
+  #- commitizen=2.20.*
+  #- python-semantic-release=7.16.*
+  #- streamlit=1.4.*
+  #- great-expectations=0.14.*
+  # Analytics
+  #- numpy=1.22.*
+  #- pandas=1.4.*
+  #- matplotlib=3.5.*
+  #- jupyter=1.0.*
+  #- ipykernel=6.7.*
+  # Machine Learning
+  #- scikit-learn=1.0.*
+  #- pycaret=2.3.*
+  #- prophet=1.0.*
+  #- statsmodels=0.13.*
+  #- tensorflow=2.6.*
+  #- keras=2.7.*
+  #- xgboost=1.5.*
+  #- lightgbm=3.3.*
+  #- evalml
+  # Files Format
+  #- feather-format=0.4.*
+  #- fastavro=1.4.*
