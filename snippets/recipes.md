@@ -1,3 +1,5 @@
+## Distribution Chart
+```python
 import math
 
 import matplotlib.pyplot as plt
@@ -38,3 +40,4 @@ def distribution_graph(dataframe, plot_per_line):
             a.spines["bottom"].set_linewidth(1.2)
     fig.tight_layout(h_pad=3)
     return plt
+```

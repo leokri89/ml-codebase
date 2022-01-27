@@ -1,6 +1,6 @@
 #https://www.evernote.com/l/Ap4HHraO7sxL16hpXgcVW0WWWbYO6c7nZW0/
 
-import numpy as np 
+import numpy as np
 
 #15 random integers from the "discrete uniform" distribution
 ages = np.random.randint(0, 100, 15)

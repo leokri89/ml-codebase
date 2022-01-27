@@ -1,7 +1,7 @@
-TRAIN_SET = './datasets/train.csv'
-TEST_SET = './datasets/test.csv'
+TRAIN_SET = "./datasets/train.csv"
+TEST_SET = "./datasets/test.csv"
 
-PROFILING_CONFIG = './profiling_config.yml'
+PROFILING_CONFIG = "./profiling_config.yml"
 
 import pandas as pd
 import pandas_profiling as pdp
