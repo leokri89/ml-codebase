@@ -6,6 +6,7 @@ channels:
 dependencies:
   - python=3.9.*
   - pip=21.3.*
+  
   # Python Programming
   #- flake8=4.0.*
   #- isort=5.10.*
@@ -18,12 +19,14 @@ dependencies:
   #- fastapi=0.73.0
   #- aiohttp=3.8.*
   #- pydantic=1.9.*
+
   # Analytics
   #- numpy=1.22.*
   #- pandas=1.4.*
   #- matplotlib=3.5.*
   #- jupyter=1.0.*
   #- ipykernel=6.7.*
+
   # Machine Learning
   #- scikit-learn=1.0.*
   #- pycaret=2.3.*
@@ -34,6 +37,7 @@ dependencies:
   #- xgboost=1.5.*
   #- lightgbm=3.3.*
   #- evalml
+
   # Files Format
   #- feather-format=0.4.*
   #- fastavro=1.4.*
