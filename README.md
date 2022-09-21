@@ -2,6 +2,7 @@
 
 Esse repositório é a minha central de recorte de códigos de machine learning que facilitam a minha vida!
 
+```
 ml-codebase
 ├───artigos
 ├───base64_grey_image
@@ -23,3 +24,4 @@ ml-codebase
 ├───statistic_tests
 ├───time_series_anomaly_detection
 └───xgboost_on_lambda
+```
