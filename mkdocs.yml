@@ -1,8 +1,17 @@
-site_name: My Docs
+site_name: Inteligencia Artificial Codebase
+repo_url: https://github.com/leokri89/ml-codebase
+repo_name: leokri89/ai-codebase
 theme:
   name: material
+  language: pt-BR
+  icon:
+    repo: fontawesome/brands/github
   features:
     - content.code.copy
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - content.code.annotate
 
 plugins:
   - search:
